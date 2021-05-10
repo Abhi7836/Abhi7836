@@ -31,7 +31,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🤖 &nbsp; ![ROS](https://img.shields.io/badge/-ROS-333333?style=flat&logo=ROS) 
             ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
-            (https://img.shields.io/badge/-Raspberrypi-333333?style=flat&logo=Raspberry%20pi)
+            ![Raspberry pi](https://img.shields.io/badge/-Raspberrypi-333333?style=flat&logo=Raspberry%20pi)
             ![Drone](https://img.shields.io/badge/-Drone-333333?style=flat&logo=Drone)
 
 <br/>
