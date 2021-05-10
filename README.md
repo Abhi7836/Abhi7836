@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Graduated from IIT(BHU),Varanasi in Electronics and Communication Engg.
+- 🎓 &nbsp; Graduated from [IIT(BHU),Varanasi](https://www.iitbhu.ac.in/) in Electronics and Communication Engg.
 - 💼 &nbsp; Upcoming SDE.
 - 🌱 &nbsp; Learning more about Full stack web development.
 - 🧐 &nbsp; Interested in Autonomus Dorne,Robots, AI, IOT and Embedded systems.
