@@ -29,8 +29,9 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🤖 &nbsp; ![ROS](https://img.shields.io/badge/-ROS-333333?style=flat&logo=ROS)
-- ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
+- 🤖 &nbsp; ![ROS](https://img.shields.io/badge/-ROS-333333?style=flat&logo=ROS) 
+            ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
+            ![Raspberrypi](https://img.shields.io/badge/-Raspberrypi-333333?style=flat&logo=Raspberry%20pi)
 <br/>
 
 <a href="https://github.com/Abhi7836">
