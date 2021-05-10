@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Graduated from IIT(BHU),Varanasi in Electronics and Communication Engg.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 💼 &nbsp; Upcoming SDE.
 - 🌱 &nbsp; Learning more about Full stack web development.
 - 🧐 &nbsp; Interested in Autonomus Dorne,Robots, AI, IOT and Embedded systems.
 
@@ -31,7 +31,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🤖 &nbsp; ![ROS](https://img.shields.io/badge/-ROS-333333?style=flat&logo=ROS) 
             ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
-            ![Raspberrypi](https://img.shields.io/badge/-Raspberrypi-333333?style=flat&logo=Raspberry%20pi)
+            (https://img.shields.io/badge/-Raspberrypi-333333?style=flat&logo=Raspberry%20pi)
             ![Drone](https://img.shields.io/badge/-Drone-333333?style=flat&logo=Drone)
 
 <br/>
