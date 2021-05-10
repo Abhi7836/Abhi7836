@@ -8,6 +8,7 @@
 - 🎓 &nbsp; Graduated from IIT(BHU),Varanasi in Electronics and Communication Engg.
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Full stack web development.
+- 🧐 &nbsp; Interested in Autonomus Dorne,Robots,AI,IOT and Embedded systems.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
