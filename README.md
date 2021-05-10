@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<!--img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png"-->
 
 <h2> Hey there! I'm Abhishekk.</h2>
 
@@ -48,7 +48,7 @@
 
 <p align="center">
 <!--a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a-->
-<a href="https://www.linkedin.com/in/abhishekk-lal-naikk-987179181/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abhishekk Lal Naikk%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/abhishekk-lal-naikk-987179181/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abhishekk Lal Naikk-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:sugali.alnaikk.ece17@itbhu.ac.in"><img alt="Email" src="https://img.shields.io/badge/Email-sugali.alnaikk.ece17@itbhu.ac.in-blue?style=flat-square&logo=gmail"></a>
 </p>
 
