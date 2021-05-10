@@ -30,7 +30,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🤖 &nbsp; ![ROS](https://img.shields.io/badge/-ROS-333333?style=flat&logo=ROS)
-- ![Drones](https://img.shields.io/badge/-Drone-333333?style=flat&logo=Drone)
+- ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
 <br/>
 
 <a href="https://github.com/Abhi7836">
