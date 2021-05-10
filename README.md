@@ -30,7 +30,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🤖 &nbsp;
-- ![ROS]](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+- ![ROS](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 <br/>
 
 <a href="https://github.com/Abhi7836">
