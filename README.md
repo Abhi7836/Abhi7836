@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Graduated from [IIT(BHU),Varanasi](https://www.iitbhu.ac.in/) in Electronics and Communication Engg.
 - 💼 &nbsp; Upcoming SDE.
 - 🌱 &nbsp; Learning more about Full stack web development.
-- 🧐 &nbsp; Interested in Autonomus Dorne,Robots, AI, IOT and Embedded systems.
+- 🧐 &nbsp; Interested in Autonomous Drone,Robots, AI, IOT and Embedded systems.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
