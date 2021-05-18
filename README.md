@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Graduated from [IIT(BHU),Varanasi](https://www.iitbhu.ac.in/) in Electronics and Communication Engg.
-- 💼 &nbsp; Upcoming SDE.
+- 💼 &nbsp; Software Engineer at Paytm.
 - 🌱 &nbsp; Learning more about Full stack web development.
 - 🧐 &nbsp; Interested in Autonomous Drone,Robots, AI, IOT and Embedded systems.
 
