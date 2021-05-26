@@ -34,7 +34,7 @@
             ![Raspberry pi](https://img.shields.io/badge/-Raspberrypi-333333?style=flat&logo=Raspberry%20pi)
             ![Drone](https://img.shields.io/badge/-Drone-333333?style=flat&logo=Drone)
             
- 
+  
 <h3> 💻 &nbsp;Projects</h3>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Graduated from [IIT(BHU),Varanasi](https://www.iitbhu.ac.in/) in Electronics and Communication Engg.
