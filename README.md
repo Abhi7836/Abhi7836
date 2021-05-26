@@ -11,6 +11,7 @@
 - 🧐 &nbsp; Interested in Autonomous Drone,Robots, AI, IOT and Embedded systems.
   
 <h3> 💻 &nbsp;Projects</h3>
+
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.                                                          
 - 🎓 &nbsp; Graduated from [IIT(BHU),Varanasi](https://www.iitbhu.ac.in/) in Electronics and Communication Engg.                                   
 - 💼 &nbsp; Software Engineer at Paytm.                                                                                     
