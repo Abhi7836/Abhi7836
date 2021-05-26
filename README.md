@@ -39,10 +39,12 @@
 <h3> 💻 &nbsp;Projects</h3>
 
 - 🛒 &nbsp; MERN E-commerce [website.](https://abhicart.herokuapp.com) [Github](https://github.com/Abhi7836/AbhiCart)
-- 🎓 &nbsp; Graduated from [IIT(BHU),Varanasi](https://www.iitbhu.ac.in/) in Electronics and Communication Engg.                                   
-- 💼 &nbsp; Software Engineer at Paytm.                                                                                     
-- 🌱 &nbsp; Learning more about Full stack web development.                                                                          
-- 🧐 &nbsp; Interested in Autonomous Drone,Robots, AI, IOT and Embedded systems. 
+- 💬 &nbsp; React chat [app](https://abhi-chatme.herokuapp.com) [Github](https://github.com/Abhi7836/abhi-chatme)                                
+- 💼 &nbsp; React [Keeper](https://codesandbox.io/s/github/Abhi7836/abhi-keeper) [Github](https://github.com/Abhi7836/abhi-keeper)
+- 💼 &nbsp; [Books](https://abhi7836.github.io/Books/) [Github](https://github.com/Abhi7836/Books)                                                                 - 🌱 &nbsp; Newsletter [Github](https://github.com/Abhi7836/Newsletter)                                                                           
+- 🧐 &nbsp; [Abhi-Band](https://abhi7836.github.io/Abhi_band/) [Github](https://github.com/Abhi7836/Abhi_band)
+- 💼 &nbsp; [Abhi-Blog](https://abhi-blog.herokuapp.com/) [Github](https://github.com/Abhi7836/abhi-blog)
+- 💼 &nbsp; [css_website](https://abhi7836.github.io/Abhi_Css_website/) [Github](https://github.com/Abhi7836/Abhi_Css_website)                                     - 🧐 &nbsp; [Simon game](https://abhi7836.github.io/Abhi_simon/) [Github](https://github.com/Abhi7836/Abhi_simon)
                                                     
 
 <br/>
