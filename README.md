@@ -9,15 +9,7 @@
 - 💼 &nbsp; Software Engineer at Paytm.
 - 🌱 &nbsp; Learning more about Full stack web development.
 - 🧐 &nbsp; Interested in Autonomous Drone,Robots, AI, IOT and Embedded systems.
-  
-<h3> 💻 &nbsp;Projects</h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.                                                          
-- 🎓 &nbsp; Graduated from [IIT(BHU),Varanasi](https://www.iitbhu.ac.in/) in Electronics and Communication Engg.                                   
-- 💼 &nbsp; Software Engineer at Paytm.                                                                                     
-- 🌱 &nbsp; Learning more about Full stack web development.                                                                          
-- 🧐 &nbsp; Interested in Autonomous Drone,Robots, AI, IOT and Embedded systems.    
-
+ 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -42,6 +34,13 @@
             ![Raspberry pi](https://img.shields.io/badge/-Raspberrypi-333333?style=flat&logo=Raspberry%20pi)
             ![Drone](https://img.shields.io/badge/-Drone-333333?style=flat&logo=Drone)
             
+<h3> 💻 &nbsp;Projects</h3>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.                                                          
+- 🎓 &nbsp; Graduated from [IIT(BHU),Varanasi](https://www.iitbhu.ac.in/) in Electronics and Communication Engg.                                   
+- 💼 &nbsp; Software Engineer at Paytm.                                                                                     
+- 🌱 &nbsp; Learning more about Full stack web development.                                                                          
+- 🧐 &nbsp; Interested in Autonomous Drone,Robots, AI, IOT and Embedded systems. 
                                                     
 
 <br/>
