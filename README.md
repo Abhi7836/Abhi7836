@@ -38,7 +38,7 @@
             
 <h3> 💻 &nbsp;Projects</h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.                                                          
+- 🛒 &nbsp; MERN E-commerce [website.](https://abhicart.herokuapp.com) [Github](https://github.com/Abhi7836/AbhiCart)
 - 🎓 &nbsp; Graduated from [IIT(BHU),Varanasi](https://www.iitbhu.ac.in/) in Electronics and Communication Engg.                                   
 - 💼 &nbsp; Software Engineer at Paytm.                                                                                     
 - 🌱 &nbsp; Learning more about Full stack web development.                                                                          
